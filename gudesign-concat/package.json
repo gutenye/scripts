@@ -1,0 +1,12 @@
+{
+  "name": "gudesign-concat",
+  "version": "1.0.1",
+  "bin": { "gudesign-concat": "./gudesign-concat.js" },
+  "license": "MIT",
+  "dependencies": {
+    "globby": "^8.0.1",
+    "lodash": "^4.17.10",
+    "pdjs": "^1.0.6",
+    "sharp": "^0.20.3"
+  }
+}

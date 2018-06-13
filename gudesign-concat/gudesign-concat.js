@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 require('pdjs')
 const globby = require('globby')
 const sharp = require('sharp')
